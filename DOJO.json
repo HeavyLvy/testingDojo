@@ -2,5 +2,5 @@
   "name": "Test Package",
   "description": "A test mojo dojo package",
   "version": "24.1.0",
-  "package_directory": "/MyPackage"
+  "package_directory": "MyPackage"
 }
